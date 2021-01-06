@@ -1,6 +1,6 @@
 # upstage-basic-deeplearning
-PyTorch Tutorial for Boostcamp AI Tech
-This repo contains five tutorials with blanks to fill marded with `# FILL IN HERE`.
+PyTorch Tutorial for Boostcamp AI Tech.
+This repo contains five tutorials with blanks to fill marked with `# FILL IN HERE`.
 1. Multi-layer Perceptron ([mlp](https://github.com/sjchoi86/upstage-basic-deeplearning/blob/main/notebook/mlp.ipynb))
 2. Convolutional Neural Network ([cnn](https://github.com/sjchoi86/upstage-basic-deeplearning/blob/main/notebook/cnn.ipynb))
 3. Regression with Different Optimizers ([optm](https://github.com/sjchoi86/upstage-basic-deeplearning/blob/main/notebook/optm.ipynb))
